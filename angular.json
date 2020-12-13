@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-youtube"
+    }
+  },
+  "defaultProject": "angular-youtube",
+  "cli": {
+    "analytics": false
+  }
 }
